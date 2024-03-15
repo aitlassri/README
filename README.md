@@ -7,6 +7,16 @@ Mon cursus académique, axé sur des études en informatique et en développemen
 Au fil de ces deux décennies, j'ai évolué dans des environnements professionnels variés, affinant mes compétences et élargissant ma compréhension des défis spécifiques à chaque secteur. Que ce soit dans le monde dynamique de l'informatique, dans l'univers financier de la banque et de l'assurance ou dans l'interaction directe avec les clients dans le service à la clientèle, chaque expérience a contribué à sculpter une expertise robuste et adaptable.
 Cette riche expérience m'a doté d'une capacité à aborder les problématiques avec une perspective holistique et à proposer des solutions novatrices. Je suis convaincue que mon bagage professionnel varié constitue un atout significatif pour relever les défis spécifiques du développement web au sein de votre entreprise.
 
+## About me
+
+| Rank |Compétences                                                                                                  |
+|-----:|-------------------------------------------------------------------------------------------------------------|
+|     1| Tisser des toiles du World Wide Web en HTML, CSS et Bootstrap.                                              |
+|     2| Agilité avec JavaScript, PHP et leurs sidekicks.                                                            |
+|     3| Pratiquer la magie du scaffolding avec la technologie .NET et Java.                                         |
+|     4| Protéger les royaumes des bases de données contre la corruption.                                            |
+|     5| Réalisation des projets imposants en C#, PHP et en Java, tout comme des projets plus modestes avec Access.  |
+
 
 ## About me
 
@@ -25,15 +35,6 @@ Cette riche expérience m'a doté d'une capacité à aborder les problématiques
 |    Intranet                                       | SharePoint                                                                                                                     |
 |    Autres                                         | MS Access, MS Office, ISA (Internet Security Acceleration Server)                                                              | 
 
-## About me
-
-| Rank |Compétences                                                                                                 |
-|-----:|-------------------------------------------------------------------------------------------------------------|
-|     1| Tisser des toiles du World Wide Web en HTML, CSS et Bootstrap.                                              |
-|     2| Agilité avec JavaScript, PHP et leurs sidekicks.                                                            |
-|     3| Pratiquer la magie du scaffolding avec la technologie .NET et Java.                                         |
-|     4| Protéger les royaumes des bases de données contre la corruption.                                            |
-|     5| Réalisation des projets imposants en C#, PHP et en Java, tout comme des projets plus modestes avec Access.  |
 
 
 ## Objectifs Professionnels
