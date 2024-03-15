@@ -1,9 +1,6 @@
 # README
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://th.bing.com/th/id/OIG1.9L0_2X9GDwVBFdySIU4_?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)">
- <img alt="Web" src="[YOUR-DEFAULT-IMAGE](https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn)https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn">
-</picture>
+
+<img src="https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn" alt="Web" width="1270" height="200">
 
 ## About me
 
