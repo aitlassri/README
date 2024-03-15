@@ -1,6 +1,11 @@
 # README
 
 <img src="https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn" alt="Web" width="1270" height="200">
+## Biographie
+
+Mon cursus académique, axé sur des études en informatique et en développement web, ainsi que ma trajectoire professionnelle, où j'ai accompli avec succès plusieurs projets informatiques de grande envergure, reflètent plus de vingt ans d'expérience diversifiée. Cette expérience s'est forgée à travers différents secteurs, notamment l'informatique, la banque, l'assurance, et le service à la clientèle. Cette diversité a contribué à l'élaboration d'une expertise solide et polyvalente, parfaitement adaptée aux défis du développement web, un domaine exigeant.
+Au fil de ces deux décennies, j'ai évolué dans des environnements professionnels variés, affinant mes compétences et élargissant ma compréhension des défis spécifiques à chaque secteur. Que ce soit dans le monde dynamique de l'informatique, dans l'univers financier de la banque et de l'assurance ou dans l'interaction directe avec les clients dans le service à la clientèle, chaque expérience a contribué à sculpter une expertise robuste et adaptable.
+Cette riche expérience m'a doté d'une capacité à aborder les problématiques avec une perspective holistique et à proposer des solutions novatrices. Je suis convaincue que mon bagage professionnel varié constitue un atout significatif pour relever les défis spécifiques du développement web au sein de votre entreprise.
 
 
 ## About me
@@ -30,11 +35,6 @@
 |     4| Protéger les royaumes des bases de données contre la corruption.                                            |
 |     5| Réalisation des projets imposants en C#, PHP et en Java, tout comme des projets plus modestes avec Access.  |
 
-## Biographie
-
-Mon cursus académique, axé sur des études en informatique et en développement web, ainsi que ma trajectoire professionnelle, où j'ai accompli avec succès plusieurs projets informatiques de grande envergure, reflètent plus de vingt ans d'expérience diversifiée. Cette expérience s'est forgée à travers différents secteurs, notamment l'informatique, la banque, l'assurance, et le service à la clientèle. Cette diversité a contribué à l'élaboration d'une expertise solide et polyvalente, parfaitement adaptée aux défis du développement web, un domaine exigeant.
-Au fil de ces deux décennies, j'ai évolué dans des environnements professionnels variés, affinant mes compétences et élargissant ma compréhension des défis spécifiques à chaque secteur. Que ce soit dans le monde dynamique de l'informatique, dans l'univers financier de la banque et de l'assurance ou dans l'interaction directe avec les clients dans le service à la clientèle, chaque expérience a contribué à sculpter une expertise robuste et adaptable.
-Cette riche expérience m'a doté d'une capacité à aborder les problématiques avec une perspective holistique et à proposer des solutions novatrices. Je suis convaincue que mon bagage professionnel varié constitue un atout significatif pour relever les défis spécifiques du développement web au sein de votre entreprise.
 
 ## Objectifs Professionnels
 
