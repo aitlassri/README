@@ -39,3 +39,37 @@ Je suis un passionné de technologie avec une solide expérience dans le dévelo
 ## Objectifs Professionnels
 
 Je suis actuellement à la recherche de nouvelles opportunités professionnelles dans le domaine du développement web et mobile. Je suis ouvert aux offres d'emploi à temps plein, aux collaborations sur des projets passionnants ainsi qu'aux opportunités de travail freelance. Mon objectif est de rejoindre une équipe dynamique où je pourrais mettre à profit mes compétences techniques et contribuer à des projets innovants. Je suis particulièrement intéressé par les projets axés sur la création d'expériences utilisateur exceptionnelles et l'adoption de nouvelles technologies. N'hésitez pas à me contacter si vous pensez que je pourrais être un bon ajout à votre équipe ou si vous avez des opportunités intéressantes à discuter.
+
+<!--
+## Projets Personnels
+
+Voici quelques-uns de mes projets personnels que j'ai développés et que je souhaite mettre en avant :
+
+1. **Nom du Projet 1**
+   - Description : Une brève description du projet et de son objectif.
+   - GitHub : [lien vers le dépôt GitHub](lien_github)
+   - Site Web : [lien vers le site Web du projet](lien_site_web)
+
+2. **Nom du Projet 2**
+   - Description : Une brève description du projet et de son objectif.
+   - GitHub : [lien vers le dépôt GitHub](lien_github)
+   - Site Web : [lien vers le site Web du projet](lien_site_web)
+
+3. **Nom du Projet 3**
+   - Description : Une brève description du projet et de son objectif.
+   - GitHub : [lien vers le dépôt GitHub](lien_github)
+   - Site Web : [lien vers le site Web du projet](lien_site_web)
+-->
+
+<!--
+## Expérience Professionnelle
+
+1. **Titre du Poste - Nom de l'Entreprise (Dates)**
+   - Description : Une brève description de vos responsabilités et réalisations dans ce poste.
+
+2. **Titre du Poste - Nom de l'Entreprise (Dates)**
+   - Description : Une brève description de vos responsabilités et réalisations dans ce poste.
+
+3. **Titre du Poste - Nom de l'Entreprise (Dates)**
+   - Description : Une brève description de vos responsabilités et réalisations dans ce poste.
+-->
