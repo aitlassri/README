@@ -41,6 +41,8 @@ Cette riche expérience m'a doté d'une capacité à aborder les problématiques
 
 Je suis actuellement à la recherche de nouvelles opportunités professionnelles dans le domaine du développement web et mobile. Je suis ouvert aux offres d'emploi à temps plein, aux collaborations sur des projets passionnants ainsi qu'aux opportunités de travail freelance. Mon objectif est de rejoindre une équipe dynamique où je pourrais mettre à profit mes compétences techniques et contribuer à des projets innovants. Je suis particulièrement intéressé par les projets axés sur la création d'expériences utilisateur exceptionnelles et l'adoption de nouvelles technologies. N'hésitez pas à me contacter si vous pensez que je pourrais être un bon ajout à votre équipe ou si vous avez des opportunités intéressantes à discuter.
 
+[Regardez la démonstration de mon projet Android !](https://www.dropbox.com/scl/fi/4bm5bjfxyeqotmacihqjv/video-android-xml.mkv?rlkey=xteka9j5b2bj8lkn85z13mhyj&dl=0)
+
 <!--
 ## Projets Personnels
 
