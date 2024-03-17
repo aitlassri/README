@@ -22,8 +22,8 @@ Cette riche expérience m'a doté d'une capacité à aborder les problématiques
 
 | Compétences techniques :                          | Languages                                                                                                                      |
 |--------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------|
-|    Programmation Web Client                       | HTML, CSS, JavaScript, Bootstrap                                                                                              |
-|    Programmation Web Serveur                      | Java EE, Spring MVC, Hibernate, Maven, Spring Boot, Asp.NET, MVC, .NET Core, Entity Framework et C#, PHP, Laravel et Node.js |
+|    Programmation Web Client                       | HTML, CSS, JavaScript, Bootstrap                                                                                               |
+|    Programmation Web Serveur                      | Java EE, Spring MVC, Hibernate, Maven, Spring Boot, Asp.NET, MVC, .NET Core, Entity Framework et C#, PHP, Laravel et Node.js   |
 |    Mobile                                         | Android (Java), XML                                                                                                            |
 |    Base de données                                | MySQL, SQL Server, MongoDB, PhpMyAdmin...                                                                                      |
 |    Programmation de services Web (Back-End)       | Services SOAP et REST (POST, GET, PUT et DELETE) en Java, C# et Node.js.                                                       |
@@ -47,18 +47,24 @@ ASP.net
 
 Android
 [Regardez la démonstration de mon projet Android !](https://www.dropbox.com/scl/fi/4bm5bjfxyeqotmacihqjv/video-android-xml.mkv?rlkey=xteka9j5b2bj8lkn85z13mhyj&dl=0)
+
 Java
-[Regardez la démonstration de mon projet Java-Spring !](https://www.dropbox.com/scl/fi/gs1qbevbekd6yumevoppy/video_java-spring-ateliers-artisaneaux.mkv?rlkey=cjt0az6xycnqqwp92s1b5pqdc&dl=0)
-[Regardez la démonstration de mon projet Java-API-quiz !](https://www.dropbox.com/scl/fi/mm45gdeh7z6g80irhhc2j/video-API-quiz.mkv?rlkey=1q859o8bf2nq2tyy8hn5xfy0y&dl=0)
+[Regardez la démonstration de mon projet Java-Spring !](https://www.dropbox.com/scl/fi/gs1qbevbekd6yumevoppy/video_java-spring-ateliers-artisaneaux.mkv?rlkey=cjt0az6xycnqqwp92s1b5pqdc&dl=0) 
+Java
+[Regardez la démonstration de mon projet Java-API-quiz !](https://www.dropbox.com/scl/fi/mm45gdeh7z6g80irhhc2j/video-API-quiz.mkv?rlkey=1q859o8bf2nq2tyy8hn5xfy0y&dl=0) 
+Java
 [Regardez la démonstration de mon projet Java !](https://www.dropbox.com/scl/fi/qjzjmg9kzfpdi32pddlyo/video-java-spring.mkv?rlkey=br4gt69fj66ry1xmybufowz71&dl=0)
 
 node.js
 [Regardez la démonstration de mon projet node instagram !](https://www.dropbox.com/scl/fi/u15lt94gztkvgtl720xd4/video-site-nodejs-instagram.mkv?rlkey=hy3axomsdnl0q4x32ywy586ln&dl=0)
+node.js
 [Regardez la démonstration de mon projet node streaming !](https://www.dropbox.com/scl/fi/n3885m8gj63may19nm3ir/video-site-nodeJS-streaming.mkv?rlkey=wi3vuysadhnheudjqrqhbk8vs&dl=0)
 
 PHP
 [Regardez la démonstration de mon projet PHP blog  !](https://www.dropbox.com/scl/fi/2bsm3k7yihpv1lr0tkd1y/video-site-PHP-Blog.mkv?rlkey=jfnrhvz3lt0nlhsu9af17xwqh&dl=0)
+PHP
 [Regardez la démonstration de mon projet PHP hotel !](https://www.dropbox.com/scl/fi/epk9aoy5kf562wknbu5df/video-site-PHP-hotel.mkv?rlkey=clo9zxc9l3mp4o0kcpexwvcvk&dl=0)
+PHP
 [Regardez la démonstration de mon projet PHP !](https://www.dropbox.com/scl/fi/9pmli948yvd5dy1cnqkwr/video-site-PHP-todo.mkv?rlkey=68te37bp5x3cerga2bzmri1qp&dl=0)
 
 
