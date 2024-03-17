@@ -1,6 +1,7 @@
 # README
 
-<img src="https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn" alt="Web" width="1270" height="200">
+<img src="https://th.bing.com/th/id/OIG1.WH1s3.wtNKCk0jEcAOHy?pid=ImgGn" alt="Web" width="270" height="200">
+
 ## Biographie
 
 Mon cursus académique, axé sur des études en informatique et en développement web, ainsi que ma trajectoire professionnelle, où j'ai accompli avec succès plusieurs projets informatiques de grande envergure, reflètent plus de vingt ans d'expérience diversifiée. Cette expérience s'est forgée à travers différents secteurs, notamment l'informatique, la banque, l'assurance, et le service à la clientèle. Cette diversité a contribué à l'élaboration d'une expertise solide et polyvalente, parfaitement adaptée aux défis du développement web, un domaine exigeant.
